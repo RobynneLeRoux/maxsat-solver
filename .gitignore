@@ -1,0 +1,17 @@
+.vscode/*
+builddir/*
+subprojects/*
+*.DS_Store
+
+build/*
+
+# benchmark output
+benchmark_*.log
+results_*.json
+*_sweep.txt
+flips_*.txt
+compile_commands.json
+yalsat/
+cov/
+*.profraw
+*.profdata

@@ -1,0 +1,5 @@
+c This formula has tautologies in clause (1)
+p wcnf 4 3 10
+10 1 -1 2 0
+1 1 2 3 0
+1 4 -3 0

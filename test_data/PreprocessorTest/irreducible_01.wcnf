@@ -1,0 +1,5 @@
+c Benchmark: irreducible_01.wcnf
+c Target: SAT, 6 vars, 8 clauses, Hard Weight = 1000
+p wcnf 1 2 1000
+1000 1 0
+1 -1 0
